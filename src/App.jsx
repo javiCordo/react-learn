@@ -7,7 +7,7 @@ function App() {
     <>
       <div>
          <h1>Hola React</h1>
-         <h3>Mi primeros pasos</h3>
+         <h3>Mis primeros pasos</h3>
       </div>
     </>
   )
